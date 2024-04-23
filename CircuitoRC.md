@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 2
+---
+
 # Circuito RLC 
 
 Propagación de error para Frecuencia de resonancia
