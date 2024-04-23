@@ -1,4 +1,7 @@
 ---
+title: Home
+layout: home
+nav_order: 2
 jupyter:
   jupytext:
     text_representation:
